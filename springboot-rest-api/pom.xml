@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>za.co.jengo</groupId>
-	<artifactId>springbboot-rest-api</artifactId>
+	<artifactId>springboot-rest-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springbboot-rest-api</name>
 	<description>Demo project for Spring Boot REST API</description>
